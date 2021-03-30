@@ -1,1 +1,3 @@
 theme: jekyll-theme-architect
+title: The Daily App
+description: A simple app to send emails with the days news on selected subjects.
