@@ -1,37 +1,23 @@
-## The Daily App
+# The Daily App
 
 This app started as simple bit of code to gather news articles for me to get up to speed on the solar power industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After running the app for a few days, I decided I liked getting the info and added the email section so I could recieve the news every day.
 
-### Markdown
+I later added some stock info for some companies that competeted in the subjects I was looking at (started with solar power and added NASA news as well).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The Next Steps:
 
-```markdown
-Syntax highlighted code block
+After sharing my emails from the app with a couple friends in the Solar Power Industry, I was asked if they could receive them along with a few other subjects.  I made a quick google sheet sign up doc and allowed them to select the subjects, their location and a few other items they could receive each day (i.e. weather, earthquake info for a few people in the seattle area).
 
-# Header 1
-## Header 2
-### Header 3
+### Currently:
+I have the app running on my desktop computer, it sends emails every morning at the same time and sleeps until the next day.
 
-- Bulleted
-- List
+### Future Additions:
+I'll ne adding a dashboard to the app so you can just have a browser open and view the news from their along with updates throughout the day.  It will update weather and stocks at a selected interval (thinking, 15 minutes or factor of such), pull headline news, and emergency info.
 
-1. Numbered
-2. List
+### The Value!
+This app started as a quick way to get up to speed, but since then, it has become a part of an important daily tool for some clients to keep updated within their industry.  It also has helped me generate some competitor lists for them and has generated value much greater than the couple of hours that it took to create.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValleyRobotics/daily_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Paul Sprouse
+paul@valleyrobotics.com
