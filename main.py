@@ -27,7 +27,7 @@ def send_email():
 
 while True:
     now_ = datetime.datetime.now()
-    if now_.hour == 8 and now_.minute == 23:
+    if now_.hour == 11 and now_.minute == 42:
         print("Sending the Emails")
         df = pd.read_excel('people_email_list.xlsx')
         for index, row in df.iterrows():
