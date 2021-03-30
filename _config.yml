@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 title: The Daily App
 description: A simple app to send daily emails containing selected subject lines. Also, sends weather info for location and will soon have more features.
 
